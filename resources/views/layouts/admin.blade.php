@@ -49,7 +49,7 @@ style="width:90px; height:90px; object-fit:cover"
 class="rounded-circle mb-2">
 
 <h4 class="text-white">
-Hotel Turipipip
+Hotel PPKD Jakarta Pusat
 </h4>
 
 </div>

@@ -38,7 +38,7 @@
                 <a href="/guests/delete/{{ $guest->id }}" class="btn btn-danger btn-sm">
                     Delete
                 </a>
-                <a href="/guests/print/{{ $guest->id }}" class="btn btn-success btn-sm">
+                <a href="/guests/print/{{ $guest->id }}" target="_blank" class="btn btn-success btn-sm">
                     Print
                 </a>
             </td>
