@@ -42,13 +42,22 @@ background:#495057;
 <!-- Sidebar -->
 <div class="col-md-2 sidebar p-0">
 
-<h4 class="text-center text-white py-3">
-Hotel Admin
+<div class="text-center py-3">
+
+<img src="{{ asset('images/logo-ppkd.jpeg') }}"
+style="width:90px; height:90px; object-fit:cover"
+class="rounded-circle mb-2">
+
+<h4 class="text-white">
+Hotel Turipipip
 </h4>
+
+</div>
 
 <a href="/dashboard">Dashboard</a>
 <a href="/register">Registrasi Tamu</a>
 <a href="/guests">Database Tamu</a>
+<a href="/logout">Logout</a>
 
 </div>
 
